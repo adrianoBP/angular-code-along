@@ -7,6 +7,7 @@ import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatIconModule } from "@angular/material/icon";
 import { LayoutModule } from "@angular/cdk/layout";
 import { MatSidenavModule } from "@angular/material/sidenav";
+import { MatListModule } from '@angular/material/list';
 import { MatMenuModule } from "@angular/material/menu";
 import { MatCardModule } from "@angular/material/card";
 import { MatFormFieldModule } from "@angular/material/form-field";
@@ -22,6 +23,7 @@ const modules = [
     MatIconModule,
     LayoutModule,
     MatSidenavModule,
+    MatListModule,
     MatMenuModule,
     MatCardModule,
     MatFormFieldModule,
