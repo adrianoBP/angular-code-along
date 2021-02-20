@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-code-along-9d1f1": {
+      "hosting": {
+        "angular-code-along": [
+          "angular-code-along-9d1f1"
+        ]
+      }
+    }
+  }
+}
