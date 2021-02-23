@@ -46,7 +46,7 @@ $custom-orange: (
 );
 
 $angular-code-along-primary: mat-palette($custom-orange);
-$angular-code-along-accent: mat-palette($mat-pink, A200, A100, A400);
+$angular-code-along-accent: mat-palette($mat-green, A200, A100, A400);
 
 // The warn palette is optional (defaults to red).
 $angular-code-along-warn: mat-palette($mat-red);
